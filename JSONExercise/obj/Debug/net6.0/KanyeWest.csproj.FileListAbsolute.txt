@@ -1,0 +1,17 @@
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\KanyeWest.exe
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\KanyeWest.deps.json
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\KanyeWest.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\KanyeWest.dll
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\KanyeWest.pdb
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.dll
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\refint\KanyeWest.dll
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.pdb
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\ref\KanyeWest.dll
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\heath\OneDrive\Desktop\repos\JSONExercise\JSONExercise\obj\Debug\net6.0\KanyeWest.csproj.CopyComplete
